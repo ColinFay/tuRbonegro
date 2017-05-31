@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: person("Colin", "Fay", email = "contact@colinfay.me", role = c("aut", "cre"))
 Description: You like deathpunk and R? This package is 
             made for you. 
-Depends: R (>= 3.4.0)
+Depends: R (>= 2.10)
 Encoding: UTF-8
 License: GPL-3
 LazyData: true
