@@ -5,7 +5,14 @@
 \title{tuRbonegro
 This fonction plays a randomly selected Turbonegro clip.}
 \usage{
-tuRbonegro()
+tuRbonegro(width = 560, height = 315, autoplay = TRUE)
+}
+\arguments{
+\item{width}{width of the video, in pixel. Default is 560.}
+
+\item{height}{width of the video, in pixel. Default is 315.}
+
+\item{autoplay}{set video autoplay. Default is TRUE.}
 }
 \value{
 plays a clip in you RStudio Viewer

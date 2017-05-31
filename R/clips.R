@@ -4,3 +4,4 @@
 #' @examples
 #' sample(clips)
 "clips"
+

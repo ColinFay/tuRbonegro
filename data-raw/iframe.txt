@@ -1,10 +1,10 @@
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/WteGefeMiMc?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/dZh3PF0u4Vg?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/gkobpvDmVjc?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/xFYXP19e5KM?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/U_GQK_eCNf8?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/owkdI5FOsIk?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/XHKgsa8nBXo?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/Zk5yxb_gg8Q?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/Kw8UaXFJ2yM?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
-'<iframe width="560" height="315" src="https://www.youtube.com/embed/1zZ0szPK9Nw?ecver=1&autoplay=1" frameborder="0" allowfullscreen></iframe>'
+WteGefeMiMc
+dZh3PF0u4Vg
+gkobpvDmVjc
+xFYXP19e5KM
+U_GQK_eCNf8
+owkdI5FOsIk
+XHKgsa8nBXo
+Zk5yxb_gg8Q
+Kw8UaXFJ2yM
+1zZ0szPK9Nw
