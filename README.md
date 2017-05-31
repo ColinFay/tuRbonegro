@@ -1,3 +1,5 @@
+![tuRbonegro_hex](/hex_turbo.png)
+
 # tuRbonegro
 Plays a random Turbonegro clip in your R Viewer
 
@@ -13,4 +15,4 @@ devtools::install_github("ColinFay/tuRbonegro")
 library(tuRbonegro)
 tuRbonegro()
 ```
-![](/tuRbonegro.png)
+![tuRbonegro_pic](/tuRbonegro.png)
