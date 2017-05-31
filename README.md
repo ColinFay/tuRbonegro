@@ -1,5 +1,5 @@
 # tuRbonegro
-Plays a random Turbonegro clip in your RStudio Viewer
+Plays a random Turbonegro clip in your R Viewer
 
 ## Install 
 
