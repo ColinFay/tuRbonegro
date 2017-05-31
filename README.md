@@ -13,3 +13,4 @@ devtools::install_github("ColinFay/tuRbonegro")
 library(tuRbonegro)
 tuRbonegro()
 ```
+![](/tuRbonegro.png)
